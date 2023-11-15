@@ -54,14 +54,7 @@ Dashboards, as visualization tools, contain multiple layers of graphical data de
 
 3.2.2 DATA GATHERING
 Dataset for over 9,000 consumers was sourced from Kaggle and used. As shown in Figure 3, sales information was compiled.
-![image](https://github.com/alex3381/Data-Analytics-Approach-For-VEAL-Sport-wear/assets/59268114/9499e32f-b406-4b6e-9998-14727b5d058d)
-
- 
 Data from Kaggle was exported into a single excel file, and irrelevant columns were eliminated to enhance data readability. “Month”, "Year", "Age", "Age Group", and "Gender" columns were incorporated to calculate metrics. Following data modification, the excel file was uploaded into the power BI application to analyze sales performance indicators using various variables. With the aid of power BI visualization, a range of visual representations, including pie charts, bar charts, line chart and column graphs were constructed. Subsequently, the performance measures were presented in a power BI dashboard for in-depth display and analysis.
-![image](https://github.com/alex3381/Data-Analytics-Approach-For-VEAL-Sport-wear/assets/59268114/e8a65168-86a1-4445-bb98-c46188b72038)
-
-
-
 Measures were presented in a Power BI dashboard for in-depth display and analysis.
 
 3.2.3 THE SLICERS
