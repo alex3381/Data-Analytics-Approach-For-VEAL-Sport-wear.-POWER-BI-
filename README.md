@@ -1,4 +1,4 @@
-# Data-Analytics-Approach-For-VEAL-Sport-wear Company
+# Holistic Sales Performance Analysis for Veal's Sportswear: Unveiling Trends and Informing Strategic Decisions
 Enhancing Sales Performance and Profitability in Regional Retail Channels: A Data Analytics Approach  for VEAL Sportswear
 
 
